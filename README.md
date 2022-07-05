@@ -34,5 +34,3 @@ npm i json-server
 ```
 npm start
 ```
-
-
