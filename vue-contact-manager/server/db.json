@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "KLTugfgd00L",
+      "name": "Paulo Matos",
+      "company": "Serv Eletricals",
+      "email": "paulo@mailm.com",
+      "title": "Electrician",
+      "mobile": "987656787",
+      "photo": "https://media.istockphoto.com/vectors/businessman-profile-icon-man-avatar-picture-flat-design-vector-icon-vector-id543042022?k=20&m=543042022&s=170667a&w=0&h=C1Jxvh-xeN3tmfjyo25V6QALWfQvT7NX1QEQ4MaEpa0=",
+      "groupId": "4"
+    },
+    {
+      "id": "TVObxekbI",
+      "name": "Glenda Coelho",
+      "company": "Friend Co.",
+      "email": "glenda@hotmail.com",
+      "title": "freelancer",
+      "mobile": "8880009991",
+      "photo": "https://www.w3schools.com/w3images/avatar6.png",
+      "groupId": "2"
+    },
+    {
+      "name": "Gabriela Bruno Ribeiro",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7j1zp_kdWGQGstE1S35fULPm5gFhmQR6PXk_sEHTF2_6jvCcbrwa6VDAMdmU-3ppSfk&usqp=CAU",
+      "email": "gabriela@email.com",
+      "mobile": 85988661177,
+      "company": "Acc",
+      "title": "Developer",
+      "groupId": "2",
+      "id": "Gdoot6X"
+    },
+    {
+      "name": "Bruno Magalhães",
+      "photo": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+      "email": "bru@gmail.com",
+      "mobile": 85996790000,
+      "company": "DNIT",
+      "title": "Servidor Público",
+      "groupId": "3",
+      "id": "dDvLB-L"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colega"
+    },
+    {
+      "id": "2",
+      "name": "Amigo"
+    },
+    {
+      "id": "3",
+      "name": "Família"
+    },
+    {
+      "id": "4",
+      "name": "Serviço"
+    },
+    {
+      "id": "5",
+      "name": "Comunidade"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
