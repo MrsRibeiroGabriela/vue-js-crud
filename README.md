@@ -32,5 +32,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 npm i json-server
 ```
+```
 npm start
 ```
